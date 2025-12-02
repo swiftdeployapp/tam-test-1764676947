@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "tam-test",
+  "builds": [
+    {
+      "src": "**/*",
+      "use": "@vercel/static"
+    }
+  ]
+}
